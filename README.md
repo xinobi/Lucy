@@ -32,6 +32,7 @@ You don't need to produce spaghetti blueprint for every UI element. Prepare it q
 * [Trello Board](https://trello.com/b/p4HZ0RuB/lucy)
 * [Twitter](https://twitter.com/kjustynski)
 * [UE4 forum thread](https://forums.unrealengine.com/showthread.php?120313-FREE-Lucy-lightweight-UI-amp-Input-framework)
+* [Reddit thread](https://www.reddit.com/r/unrealengine/comments/4yv3do/free_tool_lucy_lightweight_ui_input_framework/)
 
 ### Donate if you like it :)
 [![Donate](https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LDSUHMU28QRRL)
