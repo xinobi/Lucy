@@ -1,4 +1,7 @@
 Lucy is lightweight UI & Input framework for projects created in Unreal Engine 4. 
+
+[![Lucy UI: Log #1](http://img.youtube.com/vi/zsqyVt15XkE/0.jpg)](https://www.youtube.com/watch?v=zsqyVt15XkE "Lucy UI: Log #1")
+
 * Based on UMG, written mostly in blueprints. It's free to use, even commercially.
 * It allows for compositing UI from fully reusable widgets (I call it composites). Define widget style and logic once, use it hundred times! Or define logic once and set different appearance for every widget instance.
 * In clean UMG (without any own scripts) you have to script every element (like button, text or slider) individually. It means lots of copy-pasting scripts responsible for input, localization, styling, setting and restoring state. Everything. Of course many developers close part of those scripts in reusable functions and apply them at every element. My approach is to close entire functionality of element or element group in separate widget file, then simply put this widget in UI panel and fill up parameters. Element added in UMG's Designer tab works out of the box. There's no need to script anything except your custom game logic.
@@ -31,7 +34,7 @@ You don't need to produce spaghetti blueprint for every UI element. Prepare it q
 [![Donate](https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LDSUHMU28QRRL)
 
 ### Third-party 
-* Few blueprint functions from [LE Extended Standard Library](https://www.unrealengine.com/marketplace/low-entry-extended-standard-library)
+* Few blueprint functions from [LE Extended Standard Library](https://www.unrealengine.com/marketplace/low-entry-extended-standard-library).
 * Controller icons created by [Xelu](http://opengameart.org/content/free-keyboard-and-controllers-prompts-pack).
 * Miscellaneous icons from  [To [icon]](http://www.toicon.com/about) project.
 * Chopin's Nocturne performed by Frank Levy. More at [Musopen.org](https://musopen.org/music/245/frederic-chopin/nocturnes-op-9/).
