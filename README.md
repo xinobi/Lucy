@@ -1,8 +1,11 @@
 Lucy is lightweight UI & Input framework for projects created in Unreal Engine 4. 
 
+Click image below to watch quick video preview.
+
 [![Lucy UI: Log #1](http://img.youtube.com/vi/zsqyVt15XkE/0.jpg)](https://www.youtube.com/watch?v=zsqyVt15XkE "Lucy UI: Log #1")
 
-* Based on UMG, written mostly in blueprints. It's free to use, even commercially.
+### It's free to use, even commercially.
+* Based on UMG, written mostly in blueprints. 
 * It allows for compositing UI from fully reusable widgets (I call it composites). Define widget style and logic once, use it hundred times! Or define logic once and set different appearance for every widget instance.
 * In clean UMG (without any own scripts) you have to script every element (like button, text or slider) individually. It means lots of copy-pasting scripts responsible for input, localization, styling, setting and restoring state. Everything. Of course many developers close part of those scripts in reusable functions and apply them at every element. My approach is to close entire functionality of element or element group in separate widget file, then simply put this widget in UI panel and fill up parameters. Element added in UMG's Designer tab works out of the box. There's no need to script anything except your custom game logic.
 * Appearances of widgets placed in panels refresh automatically after change - which isn't possible in pure UMG.
