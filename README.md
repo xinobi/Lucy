@@ -1,6 +1,6 @@
-Lucy is lightweight UI & Input framework for projects created in Unreal Engine 4. 
+### Lucy is lightweight UI & Input framework for projects created in Unreal Engine 4. 
 
-Click image below to watch quick video preview.
+[Click image below to watch quick video preview]
 
 [![Lucy UI: Log #1](http://i.imgur.com/zCrnxoS.png)](https://www.youtube.com/watch?v=zsqyVt15XkE "Lucy UI: Log #1")
 
